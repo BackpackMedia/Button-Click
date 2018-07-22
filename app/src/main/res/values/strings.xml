@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Button Click</string>
+    <string name="button">Increase Count</string>
+</resources>
